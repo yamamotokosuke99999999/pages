@@ -1,3 +1,5 @@
+[ほげ](./fuga/hoge.md)
+
 ほげ[ふが](https://github.com/)ぴよ
 
 
